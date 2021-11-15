@@ -22,7 +22,7 @@ More details there on how to contribute.
 
 Here is a link to the raw CSV (Comma separated values) metadata file:
 
-[Raw CSV File](https://raw.githubusercontent.com/ephialtes-t/shenbao-metadata/main/metadata.csv) 
+**[Raw CSV File](https://raw.githubusercontent.com/ephialtes-t/shenbao-metadata/main/metadata.csv)**
 
 Save this from your browser and you can open this in a spreadsheet viewer such as Microsoft Excel, Open Office, or Apple Numbers but please save again as a CSV file when you share it back to us. The first column includes a link to the item on Internet Archive; the second column for your reference includes the title displayed in internet archive, and the final column contains the (usually incomplete) date with year and month.
 
