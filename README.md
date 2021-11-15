@@ -2,7 +2,7 @@
 
 Internet archive has a collection of over 26,900 issues of the Chinese newspaper Shenbao (申報). This can be found here:
 
-https://archive.org/search.php?query=title%3A(%E7%94%B3%E5%A0%B1)+AND+description%3A(Shun+Pao)&sort=-date
+[Shenbao on Internet Archive](https://archive.org/search.php?query=title%3A(%E7%94%B3%E5%A0%B1)+AND+description%3A(Shun+Pao)&sort=-date)
 
 However, the vast majority of these issues contain only the year and the month, usually accompanied by some kind of an incrementing number (that is not always consistent).
 
